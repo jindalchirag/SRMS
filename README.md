@@ -1,6 +1,6 @@
 # SRMS
 Student Result Management System
-Student Management System is capable of managing each and every data regarding student. 
+is capable of managing each and every data regarding student. 
 Student Management System helps us in managing in an extremely efficient way. 
 This Student Management System works in an efficient manner.
 It is having two modules in this project. One is admin and other is the user/student. 
