@@ -67,6 +67,14 @@ echo "<span style='color:red'> Result Already Declare .</span>";
  echo "<script>$('#submit').prop('disabled',true);</script>";
  ?></p>
 <?php }
+ else
+  { ?>
+  <p>
+  <?php
+  echo "<span style='color:green'>Submit Result</span>";
+   echo "<script>$('#submit').prop('disabled',false);</script>";
+   ?></p>
+  <?php }
 
 
   }?>
